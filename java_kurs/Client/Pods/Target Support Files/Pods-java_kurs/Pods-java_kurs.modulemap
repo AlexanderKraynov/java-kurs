@@ -1,0 +1,6 @@
+framework module Pods_java_kurs {
+  umbrella header "Pods-java_kurs-umbrella.h"
+
+  export *
+  module * { export * }
+}

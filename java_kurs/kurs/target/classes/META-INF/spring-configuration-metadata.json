@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "server.security.jwt.JwtProperties",
+      "sourceType": "server.security.jwt.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.validity-in-ms",
+      "type": "java.lang.Long",
+      "sourceType": "server.security.jwt.JwtProperties",
+      "defaultValue": 180000
+    }
+  ],
+  "hints": []
+}
